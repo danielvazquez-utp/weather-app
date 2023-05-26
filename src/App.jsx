@@ -3,7 +3,7 @@ import './App.css';
 
 const App = () => {
 
-  const api_key = "b90add97e8658958811faddd000ec8b5";
+  const api_key = "tu_api_key";
   const [latitud, setLatitud] = useState(0);
   const [longitud, setLongitud] = useState(0);
   const [nombre, setNombre] = useState('Ciudad');
